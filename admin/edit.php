@@ -1,4 +1,4 @@
- <?php
+<?php
     include('template/header.php');
     include('config_query.php');
     $db = new database();
@@ -11,7 +11,7 @@
     }   else{
             echo "<script>alert('You havent selected an article yet!!');document.location.href='index.php';</script>";
     }
- ?>
+?>
  
  
         <!-- Content -->
@@ -109,4 +109,4 @@
 
 <?php
     include('template/footer.php')
- ?>
+?>

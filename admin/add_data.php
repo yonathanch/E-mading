@@ -1,6 +1,6 @@
- <?php
+<?php
     include('template/header.php')
- ?>
+?>
  
  
         <!-- Content -->
@@ -80,4 +80,4 @@
 
 <?php
     include('template/footer.php')
- ?>
+?>

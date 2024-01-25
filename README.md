@@ -1,9 +1,5 @@
 # E-mading
 
-Cara Menjalankan:
-1.  extract zip dan taruh di htdocs di folder xamp
-2.  jalankan xamp dan nyalakan: mysql dan apache
+majalah dinding online (e-mading). Mading online ini akan dikelola oleh admin yang dapat dibaca oleh semua peserta didik secara umum. Pihak pembaca saat ini hanya dapat membaca artikel.
 
-BAGIAN ADMIN
--  Username : admin
--  password: jewepemading123
+Pihak admin akan dapat melakukan kelola mading dengan melakukan login terlebih dahulu. Pada kelola artikel, admin dapat melakukan input, edit dan hapus artikel

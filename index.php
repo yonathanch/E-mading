@@ -5,7 +5,7 @@ $db = new database();
 $data_artikel = $db->show_data_landing();
 ?>
 
-<section class="slider mt-4">
+<section class="slider mt-4 mb-5">
     <div class="container-fluid">
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">

@@ -2,9 +2,9 @@
 //create a class with the name database
 class database{
     var $host = 'localhost';
-    var $username = "root";
-    var $password = "";
-    var $database = "db_emading";
+    var $username = "id21817542_emading";
+    var $password = "Jewepemading123.";
+    var $database = "id21817542_db_emading";
     var $koneksi = "";
 
     function __construct()
